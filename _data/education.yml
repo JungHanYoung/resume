@@ -1,10 +1,27 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: 강남대학교
+  dates: 2012 - 2018
+  qualification: 전자공학전공 (컴퓨터공학 부전공) 3.5/4.5
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    전자공학과로 들어가 회로 및 수학적 소양을 길렀습니다. 
+    1학년때 C언어 전공기초를 통해 프로그래밍을 접하였고 3학년 2학기부터 컴퓨터공학 전공수업을 수강하였습니다. 
+    수강과목중 자료구조 과목을 들으면서 프로그래밍, 개발자라는 것에 매력을 느끼게 되었습니다.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: 중앙정보인재개발원
+  dates: 2017.07 - 2017.12
+  qualification: Java 기반 IT콘텐츠 정보시스템 취업과정
+  description: | # this will include new lines to allow paragraphs
+    대학교 마지막 학기에 수업대신 해당 국비지원 취업과정을 밟았습니다. 
+    해당 과정에서는 기본적인 Java와 Swing을 이용한 간단한 주문관리 GUI를 구축하고
+    기본적인 HTML, CSS, Javascript를 배운 뒤 JSP, Spring등의 웹서비스 구축을 위한 기술을 배웠습니다.
+
+- layout: left
+  name: 한성대 글로벌 지능 정보 컨설팅 센터
+  dates: 2018.12
+  qualification: IOT 교육(드론 및 라즈베리파이)
+  description: | 
+    아르바이트와 취업준비를 병행하던 와중에 해당 기관에서 무료 교육을 제공하여 수강하였습니다.
+    해당 과정에서는 아두이노를 기반으로한 드론을 조립 및 납땜하고 아두이노 코딩을 통해 펌웨어를 빌드 및 코드 분석을 하였습니다.
+    라즈베리파이로 온습도 센서를 장착해 GPIO제어 코딩을 배웠습니다.
+
